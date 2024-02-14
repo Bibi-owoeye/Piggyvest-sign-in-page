@@ -1,0 +1,87 @@
+*{
+    border: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(4, 4, 77);
+    
+
+}
+.piggy{
+    text-align: center;
+    margin: 47px 0px;
+    
+}
+
+#box{
+    border: 2px solid white;
+    margin: 170px 100px;
+    margin: auto;
+    padding: 38px;
+    width: 360px;
+    /* color: white; */
+    border-radius: 15px 15px 15px 0px;
+    background-color: white;
+}
+
+#box h1{
+margin-top: 3px;
+padding: 2px;
+color:rgb(5, 5, 174);;
+text-align: center;
+font-size: 24px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+#box p{
+text-align: center;
+color: #4b49497d;
+margin-bottom: 30px;
+
+}
+label{
+    margin-bottom: 30px;
+    color: #212221;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+
+}
+
+input{
+background-color: #e7e7fb;
+padding: 20px;
+width :90%;
+font-size: 14px;
+margin: 10px 0px 30px 0px;
+border-radius: 5px 5px 5px 0px;
+outline: none;
+
+}
+button{
+    padding:20px ;
+    width: 100%;
+    border-radius: 5px 5px 5px 0px;
+    font-size: 14px;
+    background-color: rgb(15, 15, 235);
+    color: white;
+    margin-bottom: 3px;
+    
+}
+.login{
+    padding: 5px 0px;
+}
+.account {
+
+text-align: center;
+
+margin: 20px;
+
+}
+a{
+color: white;
+text-decoration: none;
+}
+button:hover{
+    background-color:rgb(5, 5, 68) ;
+    cursor: pointer;
+}
